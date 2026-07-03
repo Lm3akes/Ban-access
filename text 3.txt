@@ -1,0 +1,337 @@
+ᏞҒᎬᎡᎠᎪ 1337, [Jul 3, 2026 at 18:46]
+XmodzAntiban TV
+V2 — Streaming System
+
+1. Home System
+The Home screen must be dynamic.
+Everything is loaded from the Dashboard.
+Sections include:
+Continue Watching
+Trending Today
+New Releases
+Recently Added
+Most Viewed
+Top Rated
+Editor's Choice
+AI Recommended
+Continue Download
+Coming Soon
+Popular Today
+Featured Content
+Live Now
+Today's Football
+Replay Videos
+Kids Collection
+Family Collection
+Ramadan Collection
+Marvel Collection
+DC Collection
+Anime Collection
+Netflix Collection
+Disney Collection
+Every section can be enabled or disabled from the Dashboard.
+
+2. Movies
+Movie Categories
+Action
+Adventure
+Animation
+Comedy
+Crime
+Drama
+Fantasy
+History
+Horror
+Mystery
+Romance
+Science Fiction
+Thriller
+War
+Western
+Documentary
+Family
+Music
+Biography
+
+Movie Information
+Poster
+Backdrop
+Logo
+Title
+Arabic Title
+Original Title
+Arabic Description
+English Description
+Release Date
+Duration
+Country
+Language
+Budget
+Revenue
+Age Rating
+Genres
+Actors
+Director
+Producer
+IMDb
+TMDB
+Trailer
+Awards
+Studio
+Popularity
+Views
+Likes
+Dislikes
+
+Buttons
+Watch Now
+Download
+Favorite
+Share
+Watch Trailer
+Report Broken Link
+Report Wrong Information
+Request Subtitle
+
+3. TV Shows
+Latest Episodes
+Latest Seasons
+Popular
+Top Rated
+Completed
+Ongoing
+Recently Updated
+Episode List
+Season List
+Episode Description
+Episode Thumbnail
+Episode Runtime
+Episode Quality
+Episode Subtitle
+Continue Watching
+Next Episode
+Auto Play
+
+4. Anime
+Latest Anime
+Latest Episodes
+Movies
+OVA
+ONA
+Specials
+Seasonal Anime
+Popular Anime
+Top Rated Anime
+Genres
+Studios
+Status
+Episode Count
+
+5. Football
+Today's Matches
+Tomorrow Matches
+Yesterday Results
+Live Matches
+Finished Matches
+Upcoming Matches
+League Table
+Top Scorers
+Top Assists
+Lineups
+Statistics
+Goals
+Cards
+Substitutions
+Match Timeline
+Highlights
+Replay
+
+Supported Competitions
+World Cup
+Champions League
+Europa League
+Premier League
+La Liga
+Serie A
+Bundesliga
+Ligue 1
+Botola Pro
+CAF Champions League
+African Cup
+Asian Cup
+Club World Cup
+International Friendlies
+Everything manageable from Dashboard.
+
+6. Replay Videos
+High Quality
+Medium Quality
+Low Quality
+Search Replay
+Search by
+Country
+Competition
+Club
+National Team
+Date
+Season
+
+7. Live TV
+Sports
+News
+Movies
+Kids
+Music
+Entertainment
+Islamic
+Documentary
+Nature
+International
+Arabic
+French
+English
+
+8. Search
+Global Search
+Movie Search
+Series Search
+Anime Search
+Football Search
+Replay Search
+Live TV Search
+Actor Search
+Studio Search
+Director Search
+
+Advanced Filters
+Genre
+Country
+Year
+Language
+Quality
+Status
+Platform
+Duration
+Rating
+Resolution
+Subtitles
+Audio
+Multiple Selection Supported
+
+9. Recommendation Engine
+Because You Watched
+Similar Movies
+Same Actor
+Same Director
+Same Genre
+Trending Near You
+AI Recommendation
+Recently Popular
+
+10. Favorites
+Movies
+Series
+Anime
+Football
+Replay
+TV Channels
+History
+Watch Later
+Collections
+
+11. Continue Watching
+Save Position
+Resume Playback
+Sync Across Devices
+Cloud Sync
+Remove History
+Clear Continue Watching
+
+12. Download Center
+Current Downloads
+Completed Downloads
+Paused Downloads
+Download Queue
+Choose Quality
+360p
+480p
+720p
+1080p
+2K
+4K
+Offline Watching
+Resume Download
+Delete Download
+Storage Usage
+
+13. Subtitle Center
+Arabic
+English
+French
+Spanish
+German
+Italian
+Portuguese
+Auto Download
+Manual Upload
+Subtitle Sync
+Font Size
+Subtitle Color
+Subtitle Background
+
+14. Audio Center
+Arabic Audio
+English Audio
+French Audio
+Original Audio
+Multiple Audio Tracks
+Auto Select
+
+15. Streaming Servers
+Primary Server
+Backup Server
+Fast Server
+Premium Server
+Auto Switch
+Server Speed Test
+Server Health
+Report Broken Server
+
+16. AI Streaming Features
+AI Movie Recommendation
+AI Anime Recommendation
+AI Football Recommendation
+AI Trending Prediction
+AI Smart Collections
+AI Personalized Home
+
+17. User Interaction
+Like
+Dislike
+Comment (Optional)
+Share
+Copy Link
+QR Share
+Invite Friends
+
+18. Smart Collections
+Marvel
+DC
+Oscar Winners
+Trending 2026
+Family Night
+Weekend Collection
+Kids Collection
+Anime Classics
+Football Classics
+
+19. Dashboard Controls
+Admin can:
+Enable Section
+Disable Section
+Reorder Sections
+Pin Content
+Feature Content
+Schedule Content
+Hide Content
+Archive Content

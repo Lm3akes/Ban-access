@@ -1,0 +1,314 @@
+ᏞҒᎬᎡᎠᎪ 1337, [Jul 3, 2026 at 18:53]
+XmodzAntiban TV
+V4 — Xmodz OS Dashboard
+Version: 1.0
+Developer: Xmodz Team
+
+1. Dashboard Vision
+The Dashboard is the brain of the entire XmodzAntiban TV ecosystem.
+Everything inside the application must be manageable without publishing a new application update.
+The Dashboard should allow administrators to manage content, users, AI, servers, analytics, notifications, security, and system settings from one centralized interface.
+
+2. Dashboard Home
+After login the administrator sees
+Welcome
+Server Status
+Users Online
+Today's Views
+Movies Count
+Series Count
+Anime Count
+TV Channels
+Football Matches
+Replay Videos
+Broken Links
+AI Suggestions
+Latest Notifications
+Recent Activities
+Storage Usage
+CPU Usage
+RAM Usage
+Database Status
+API Status
+
+3. Sidebar Menu
+Dashboard
+Movies
+Series
+Anime
+Live TV
+Football
+Replay
+Users
+Roles
+Requests
+Categories
+Genres
+Countries
+Languages
+Subtitles
+Servers
+Downloads
+Notifications
+Telegram
+Emails
+Analytics
+Reports
+AI Center
+Monitoring
+Database
+API
+Security
+Settings
+Logs
+Backup
+Maintenance
+Plugins
+About
+Logout
+
+4. Dashboard Search
+Global Search
+Search Movie
+Search Series
+Search Anime
+Search Match
+Search User
+Search Category
+Search Server
+Search Logs
+Search Reports
+Search Settings
+
+5. Movies Manager
+Add Movie
+Edit Movie
+Delete Movie
+Hide Movie
+Publish Movie
+Schedule Movie
+Upload Poster
+Upload Backdrop
+Upload Trailer
+Manage Genres
+Manage Actors
+Manage Directors
+Manage Studios
+Manage Qualities
+Manage Servers
+Manage Subtitles
+Translate Description
+Generate AI Description
+Generate Tags
+View Statistics
+
+6. Series Manager
+Add Series
+Add Season
+Add Episode
+Schedule Episodes
+Upload Posters
+Upload Backdrops
+Episode Servers
+Episode Subtitle
+Episode Audio
+AI Description
+AI Translation
+
+7. Anime Manager
+Latest Anime
+Season Anime
+OVA
+ONA
+Special
+Movies
+Episodes
+Studios
+Characters
+Voice Actors
+AI Translation
+
+8. Football Manager
+Today's Matches
+Upcoming Matches
+Finished Matches
+Replay Videos
+Highlights
+Leagues
+Teams
+Players
+Statistics
+Lineups
+Goals
+Cards
+Standings
+Top Scorers
+
+9. Live TV Manager
+Channels
+Countries
+Categories
+EPG
+Logos
+Streaming URLs
+Backup Servers
+Quality
+Status
+Online
+Offline
+
+10. Replay Manager
+Upload Replay
+Quality
+Country
+League
+Season
+Search
+Statistics
+
+11. User Management
+Users
+Profiles
+Premium
+Blocked
+Ban
+Delete
+Edit
+Reset Password
+Device List
+Login History
+Favorite List
+Watch History
+Downloads
+
+12. Roles & Permissions
+Owner
+Administrator
+Moderator
+Content Manager
+Sports Manager
+Support
+Translator
+AI Supervisor
+Viewer
+Custom Roles
+Granular permissions for every module.
+
+13. Requests Center
+Movie Requests
+Series Requests
+Anime Requests
+Match Requests
+TV Requests
+Feature Requests
+Bug Reports
+Support Tickets
+Vote Counter
+Status
+Open
+In Progress
+Completed
+Rejected
+
+14. Notification Center
+Push Notifications
+Popup Messages
+Maintenance Alerts
+New Content Alerts
+Scheduled Notifications
+Audience Selection
+Preview
+History
+
+15. Telegram Center
+Telegram Channel Link
+Telegram Group Link
+Bot Token (optional)
+Join Banner
+Auto News
+Support Button
+
+16. Analytics Center
+Active Users
+Daily Users
+Monthly Users
+Most Viewed Movies
+Most Viewed Series
+Most Viewed Anime
+Most Viewed Channels
+Most Requested Content
+Downloads
+Average Watch Time
+Countries
+Devices
+Android Versions
+TV Models
+Crash Statistics
+
+17. AI Control Center
+AI Manager
+Content AI
+Translation AI
+Sports AI
+Security AI
+Analytics AI
+Monitoring AI
+Support AI
+Poster AI
+Trailer AI
+SEO AI
+Report AI
+Chat Assistant
+The administrator can type commands like:
+Add new movie
+Translate all descriptions to Arabic
+Send notification to all users
+Find broken links
+Generate today's report
+
+18. Monitoring Center
+CPU Usage
+RAM Usage
+Storage
+Bandwidth
+Database Health
+API Health
+Server Status
+Broken Servers
+Broken Links
+Users Online
+Active Streams
+Queue
+Cache
+Errors
+Realtime Logs
+
+19. Database Center
+Tables
+Relations
+Backup
+Restore
+Optimize
+Repair
+Statistics
+Query Logs
+
+20. API Center
+API Keys
+Authentication
+Rate Limits
+Endpoints
+Logs
+Usage
+Errors
+Versioning
+Webhook Settings
+
+21. Security Center
+JWT Tokens
+2FA
+Admin Sessions
+Failed Logins
+Blocked IPs
+Audit Logs
+Permissions

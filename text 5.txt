@@ -1,0 +1,291 @@
+ᏞҒᎬᎡᎠᎪ 1337, [Jul 3, 2026 at 18:49]
+XmodzAntiban TV
+V3 — Player Engine & Media System
+
+1. Vision
+Build one of the best video players available for Android Phone and Android TV.
+The player must be fast, modern, smooth, stable and optimized for every screen size.
+The player should support streaming, downloading and offline playback.
+
+2. Supported Formats
+Support:
+MP4
+MKV
+AVI
+MOV
+WEBM
+TS
+FLV
+MP3
+AAC
+FLAC
+M3U8
+HLS
+DASH
+HTTP
+HTTPS
+RTMP
+RTSP
+MPEG-DASH
+
+3. Supported Qualities
+Auto
+240p
+360p
+480p
+720p
+1080p
+1440p
+2160p (4K)
+HDR
+Dolby Vision (if supported)
+Automatically detect the best quality according to internet speed.
+Allow manual quality selection.
+
+4. Internal Player
+Professional interface.
+Modern controls.
+Dark theme.
+Red accent.
+Rounded buttons.
+Smooth animations.
+
+Buttons
+Play
+Pause
+Forward 10 Seconds
+Backward 10 Seconds
+Next Episode
+Previous Episode
+Fullscreen
+Exit
+Subtitle
+Audio Track
+Download
+Share
+Favorite
+Speed
+Lock Screen
+Picture in Picture
+Sleep Timer
+Report Broken Video
+
+5. TV Remote Controls
+Support Android TV Remote.
+DPAD Navigation.
+Focus Animation.
+OK Button.
+Back Button.
+Volume Button.
+Fast Navigation.
+No touch required.
+
+6. Subtitle System
+Supported Formats
+SRT
+ASS
+SSA
+VTT
+SUB
+TXT
+
+Subtitle Features
+Enable
+Disable
+Download Subtitle
+Upload Subtitle
+Subtitle Offset
+Subtitle Size
+Subtitle Color
+Subtitle Background
+Subtitle Border
+Subtitle Opacity
+Multiple Subtitle Tracks
+Auto Detect
+
+Supported Languages
+Arabic
+English
+French
+Spanish
+German
+Italian
+Portuguese
+Turkish
+Japanese
+Chinese
+Korean
+
+7. Audio System
+Multiple Audio Tracks
+Arabic
+English
+French
+Spanish
+Original
+Switch without restarting playback.
+Audio Delay.
+Volume Booster.
+Normalize Volume.
+
+8. Playback Speed
+0.25x
+0.5x
+0.75x
+1x
+1.25x
+1.5x
+1.75x
+2x
+Remember last speed.
+
+9. Resume Watching
+Automatically save
+Current Position
+Episode
+Movie
+Timestamp
+Continue Watching List
+Cloud Sync (if account is used)
+
+10. Auto Next Episode
+Countdown
+10
+9
+8
+7
+...
+Cancel Button
+Auto Skip Credits (when metadata is available)
+
+11. Picture in Picture
+Support Android PiP.
+Continue playback while using other applications.
+
+12. Brightness Control
+Swipe Left
+Increase
+Decrease
+Remember preference during playback.
+
+13. Volume Control
+Swipe Right
+Increase
+Decrease
+Mute
+
+14. Gesture Controls
+Double Tap Left
+Backward
+Double Tap Right
+Forward
+Swipe Up
+Brightness
+Swipe Down
+Volume
+Pinch (optional)
+Zoom
+
+15. Zoom Modes
+Fit Screen
+Fill Screen
+Original Size
+Stretch
+Crop
+Auto
+
+16. External Players
+Support:
+VLC
+MX Player
+Just Player
+Kodi
+Nova Player
+Choose default external player.
+
+17. Download System
+Choose Quality
+Choose Subtitle
+Choose Audio
+Pause
+Resume
+Cancel
+Retry
+Delete
+Offline Playback
+Show Remaining Time
+Download Speed
+Download Queue
+
+18. Offline Mode
+Play without internet.
+Store encrypted downloads (optional).
+Show download expiration if future licensing is added.
+
+19. Streaming Servers
+Display all available servers.
+Server Name
+Server Speed
+Server Status
+Quality
+Language
+Subtitle
+Server Health
+Switch server instantly without leaving the player.
+
+20. AI Video Assistant
+Automatically recommend a better server if playback buffers.
+Suggest lower quality if connection is slow.
+Suggest subtitles.
+Suggest similar content after playback ends.
+
+21. Error Handling
+If video fails
+Show:
+Retry
+Switch Server
+Change Quality
+Report Problem
+Contact Support
+
+22. Security
+Hide direct streaming URLs from the user interface where possible.
+Validate playback requests through the application's API.
+Support secure streaming tokens if implemented.
+
+23. Player Settings
+Default Player
+Internal
+External
+Preferred Quality
+Preferred Audio
+Preferred Subtitle
+Autoplay
+Remember Playback
+Picture in Picture
+Hardware Decoder
+Software Decoder
+Auto Rotate
+Keep Screen On
+
+24. Android TV Optimizations
+Large controls.
+Large subtitles.
+Easy remote navigation.
+High performance.
+Focus animation.
+Voice Search support (if available).
+
+25. Phone Optimizations
+Gesture navigation.
+One-handed controls.
+Portrait & Landscape support.
+Smooth animations.
+Battery optimized.
+
+26. Analytics
+Track:
+Watch Time
+Completion Rate
+Buffer Events
+Preferred Quality

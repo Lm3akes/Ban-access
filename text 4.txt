@@ -1,0 +1,21 @@
+ᏞҒᎬᎡᎠᎪ 1337, [Jul 3, 2026 at 18:46]
+Delete Content
+Bulk Import Metadata
+Review AI Suggestions
+
+20. Future Features
+Live Sports Statistics Overlay.
+AI-generated personalized collections.
+Seasonal themes (Ramadan, Holidays).
+Multi-profile recommendations.
+Editorial banners managed from the Dashboard.
+Content availability by region (if needed).
+Automatic content scheduling.
+Smart reminders for upcoming episodes and matches.
+
+💡 أفكار إضافية للمستقبل
+Daily Challenges: المستخدم يشاهد محتوى ويحصل على شارات (Achievements) داخل التطبيق.
+Collections by Mood: "Action Night", "Weekend Comedy", "Family Time".
+Top 10 by Country: أكثر المحتويات مشاهدة حسب كل دولة.
+Continue on Another Device: تبدأ على الهاتف وتكمل على التلفاز.
+AI Home Refresh: الصفحة الرئيسية تتغير حسب اهتمامات المستخدم مع الوقت.

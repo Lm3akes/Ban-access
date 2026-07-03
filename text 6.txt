@@ -1,0 +1,48 @@
+ᏞҒᎬᎡᎠᎪ 1337, [Jul 3, 2026 at 18:49]
+Most Used Audio
+Most Used Subtitle
+Playback Errors
+These reports appear in the Dashboard.
+
+27. Future Features
+AI Scene Recognition.
+Smart Chapter Navigation.
+Skip Intro (when metadata is available).
+Skip Credits.
+Bookmarks.
+Screenshot (subject to content policy and technical support).
+Audio Only Mode.
+Mini Player.
+Theater Mode.
+Casting support (future).
+
+28. Xmodz Premium Player
+Exclusive Features:
+⚡ Ultra Fast Startup
+🎬 Cinematic Mode
+🎨 Ambient Background Lighting (optional)
+🧠 AI Smart Buffer Detection
+📺 Android TV Optimized UI
+🎧 Immersive Audio Controls
+📝 Advanced Subtitle Controls
+⚙️ Professional Settings Panel
+☁️ Sync playback between devices
+🚀 Instant server switching
+🔄 Automatic playback recovery after connection loss
+
+⭐ إضافات من عندي للمشروع
+Player Diagnostics
+قسم مخفي في المشغل يبين:
+Current Resolution.
+Current Bitrate.
+FPS.
+Buffer Size.
+Decoder Type.
+Network Speed.
+مفيد لاكتشاف المشاكل.
+Smart Retry
+إذا توقف البث، يحاول إعادة الاتصال تلقائيًا قبل إظهار رسالة الخطأ.
+Night Mode
+يخفض سطوع واجهة المشغل تلقائيًا أثناء المشاهدة الليلية.
+Quick Quality Button
+زر سريع يبدل الجودة بدون فتح قائمة كاملة.
